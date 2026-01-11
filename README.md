@@ -13,6 +13,7 @@ This project features:
 - Implicit multiplication (e.g. `5(10+4)`)
 - A grid-based PyGame interface with clickable buttons
 
+![Calculator Interface](./images/calculator.PNG)
 ---
 
 ## Project Structure
